@@ -1,0 +1,12 @@
+{
+  "name": "flask-dashboard",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.3.1",
+    "electron-packager": "^17.1.2"
+  }
+}
